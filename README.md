@@ -4,5 +4,6 @@ Aplicação FrontEnd Mobile desenvolvida em React Native para disciplina de Impl
 
 Para rodar a aplicação, rode os seguintes comandos:
 
-npm install
-npm run start / npm start
+1.npm install
+
+2.npm run start/npm start
